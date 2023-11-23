@@ -22,4 +22,4 @@
 3. F8 - Start  
    F9 - Stop (stops automatically if text ends)
 
-## Change settings - edit KlawaServer.py
+### Change settings - edit KlawaServer.py
