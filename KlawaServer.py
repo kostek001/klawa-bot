@@ -3,7 +3,7 @@
 # Version: 1.1
 
 min = 90
-max = 165
+max = 185
 error_chance = 0.005
 redemption_chance = 0.65
 
