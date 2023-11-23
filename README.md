@@ -12,7 +12,7 @@
    ![image](https://github.com/kostek001/klawa-bot/assets/69671514/cb0be3ad-c540-42e7-ac54-1d27b4b3d6b3)
 4. Open Terminal/CMD and paste:
    `pip install pynput flask`
-5. [Download](https://github.com/kostek001/klawa-bot/raw/main/KlawaServer.py) server
+5. [Download](https://github.com/kostek001/klawa-bot/blob/main/KlawaServer.py) server
 
 ## How to use:
 1. Launch server
