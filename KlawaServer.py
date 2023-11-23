@@ -1,17 +1,21 @@
 # KlawaServer
 # by Kostek001
-# Version: 1.0
-
-import time
-import random
-from pynput.keyboard import Key, Controller, Listener
-import threading
-from flask import Flask, request 
+# Version: 1.1
 
 min = 100
 max = 170
 error_chance = 0.003
 redemption_chance = 0.5
+
+import time
+import random
+from pynput.keyboard import Key, Controller, Listener
+import threading
+from flask import Flask, request
+import logging
+
+log = logging.getLogger('werkzeug')
+log.setLevel(logging.ERROR)
 
 keyboard = Controller()
 letters = 'abcdefghijklmnopqrstuvwxyz'
@@ -59,6 +63,7 @@ app = Flask(__name__)
 
 @app.route('/text', methods=['POST']) 
 def process():
+    print("Received text from browser!")
     global globalText
     globalText = request.form.get('data')
     return "ok"
