@@ -17,5 +17,5 @@
 ## How to use:
 1. Launch server
 2. Launch browser with client installed
-3. F8 - Start
+3. F8 - Start  
    F9 - Stop (stops automaticly if text ends)
