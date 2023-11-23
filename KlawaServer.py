@@ -5,7 +5,7 @@
 min = 95 # Minimal typing delay (in ms)
 max = 185 # Maximal typing delay (in ms)
 error_chance = 0.005 # Error chance
-redemption_chance = 0.65 # Fix error chance
+redemption_chance = 0.7 # Fix error chance
 
 import time
 import random
