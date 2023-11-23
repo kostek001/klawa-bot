@@ -2,10 +2,10 @@
 # by Kostek001
 # Version: 1.1
 
-min = 90
-max = 185
-error_chance = 0.005
-redemption_chance = 0.65
+min = 95 # Minimal typing delay (in ms)
+max = 185 # Maximal typing delay (in ms)
+error_chance = 0.005 # Error chance
+redemption_chance = 0.65 # Fix error chance
 
 import time
 import random
