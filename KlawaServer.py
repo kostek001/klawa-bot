@@ -2,10 +2,10 @@
 # by Kostek001
 # Version: 1.1
 
-min = 100
-max = 170
-error_chance = 0.003
-redemption_chance = 0.5
+min = 90
+max = 165
+error_chance = 0.005
+redemption_chance = 0.65
 
 import time
 import random
