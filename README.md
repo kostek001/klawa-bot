@@ -23,4 +23,4 @@
    F9 - Stop (stops automatically if text ends)
 
 ### Change settings - edit KlawaServer.py
-<sup><sup><sup><sup>Przy wygranej połowa zysku idzie dla twórcy programu.</sup></sup></sup></sup>
+<sup><sup><sup><sup><sup><sup><sup><sup>W sytuacji gdy osoba korzytająca z tego oprogramowania wygra konkurs, połowa nagrody idzie dla twórcy programu.</sup></sup></sup></sup></sup></sup></sup></sup>
