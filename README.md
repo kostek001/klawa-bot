@@ -1,5 +1,7 @@
 # Klawa Bot
 
+Typing bot for [klawiaturowe-wyzwanie.pl](https://www.klawiaturowe-wyzwanie.pl/).
+
 ### [Video Tutorial](https://www.youtube.com/watch?v=T4fFKVTzU-4)
 
 ## How to install:
