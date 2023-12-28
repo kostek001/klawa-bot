@@ -25,5 +25,3 @@
 ### Change settings - edit KlawaServer.py 
   
 <br><br><br><br><br><br>
-  
-<sup><sup><sup><sup><sup><sup><sup><sup>W sytuacji gdy osoba korzytająca z tego oprogramowania wygra konkurs, połowa nagrody idzie dla twórcy programu.</sup></sup></sup></sup></sup></sup></sup></sup>
