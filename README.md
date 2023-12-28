@@ -1,6 +1,6 @@
 # Klawa Bot
 
-Typing bot for [klawiaturowe-wyzwanie.pl](https://www.klawiaturowe-wyzwanie.pl/).
+Typing bot for [klawiaturowe-wyzwanie.pl](https://www.klawiaturowe-wyzwanie.pl/). It only works on Windows :(
 
 ### [Video Tutorial](https://www.youtube.com/watch?v=T4fFKVTzU-4)
 
