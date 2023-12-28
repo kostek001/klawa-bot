@@ -23,5 +23,3 @@
    F9 - Stop (stops automatically if text ends)
 
 ### Change settings - edit KlawaServer.py 
-  
-<br><br><br><br><br><br>
